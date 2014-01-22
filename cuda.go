@@ -1,5 +1,6 @@
 package cuda
 
+// #cgo LDFLAGS: -lcuda
 // #include <cuda.h>
 // #include <stdlib.h>
 import "C"
