@@ -1,0 +1,1 @@
+This project is dead in the water because it is difficult(impossible) to use nvcc (the cuda compiler) with cgo
